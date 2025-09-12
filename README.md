@@ -1,6 +1,1 @@
 # AI-ML-Practice
-
-
-
-
-
