@@ -1,4 +1,4 @@
-# Machine learning project:1 
+# Hackerrank Python Solutions
 
 
 
